@@ -1,0 +1,51 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por UF de notificação e Mês notificação
+Período:2014-2020
+"UF de notificação";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"11 Rondônia";3118;3961;3543;2280;1428;847;696;428;288;487;973;1795;19844
+"12 Acre";7994;5216;3443;2040;2078;1470;1316;2347;7925;10216;10491;9800;64336
+"13 Amazonas";4177;4115;5007;4661;2919;2284;1500;1257;1236;1506;2152;3129;33943
+"14 Roraima";428;394;329;276;338;380;408;500;497;439;554;485;5028
+"15 Pará";5209;7662;7911;5713;4520;2415;1636;1903;1599;1606;1673;2184;44031
+"16 Amapá";685;1088;1675;1245;1248;624;421;376;405;741;577;281;9366
+"17 Tocantins";5834;7637;7650;6696;5703;2716;1156;840;534;712;1344;2821;43643
+"21 Maranhão";3841;8318;11389;10838;6631;3228;2218;1659;972;818;888;1284;52084
+"22 Piauí";1396;1937;4317;7388;9063;5826;3752;1726;976;648;557;671;38257
+"23 Ceará";7325;13877;24572;41868;46429;33737;20943;12623;6498;3951;4170;3914;219907
+"24 Rio Grande do Norte";7102;21281;31760;24578;23172;16724;12880;9129;5341;3742;2956;3560;162225
+"25 Paraíba";6610;9119;14873;16152;18448;12641;8992;5895;3253;2607;2099;4667;105356
+"26 Pernambuco";21627;25408;33155;35975;36200;23002;15441;11083;10842;10779;18662;21463;263637
+"27 Alagoas";5472;6274;7787;8657;11994;11586;10778;7075;4928;4914;5380;3887;88732
+"28 Sergipe";970;1620;1846;1931;2034;1934;2708;2669;2469;1948;2385;1438;23952
+"29 Bahia";16400;36389;50165;50597;52369;34610;22528;12475;8874;7395;7495;9506;308803
+"31 Minas Gerais";86615;195293;295046;369118;289363;85899;21004;8044;7025;7250;10809;25047;1400513
+"32 Espírito Santo";20988;21116;24308;22781;23918;20207;14165;7977;6098;6637;7201;12150;187546
+"33 Rio de Janeiro";25658;25867;36005;45440;39728;19159;9862;6080;4096;3835;5171;11573;232474
+"35 São Paulo";125040;279886;450425;477797;322137;96824;30528;12555;9435;11241;15965;31607;1863440
+"41 Paraná";39602;90573;118808;95947;50573;18321;6610;2374;1966;2914;6137;13589;447414
+"42 Santa Catarina";624;2264;5117;7292;5543;2071;526;143;117;134;193;350;24374
+"43 Rio Grande do Sul";326;741;2588;4080;2096;432;143;98;68;108;115;232;11027
+"50 Mato Grosso do Sul";30524;41163;45940;34459;20461;8384;3503;1895;1682;2058;5437;13151;208657
+"51 Mato Grosso";16824;20353;17490;13992;12535;7761;4194;2830;2352;2383;3849;8234;112797
+"52 Goiás";63890;98803;129344;127810;122687;67472;27796;16303;12634;15489;19235;26604;728067
+"53 Distrito Federal";6321;14992;22570;28229;30287;20432;6968;2578;1873;1879;2120;2951;141200
+"00 Ignorado/exterior";1;8;2;2;-;-;-;-;-;-;-;-;13
+"Total";514601;945355;1357065;1447842;1143902;500986;232672;132862;103983;106437;138588;216373;6840666
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Incluídas notificações de casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ Para o Período de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 11/01/2021, sujeitos a revisão.
+ *Data da publicação dos dados 03/2021.
+ 
